@@ -31,7 +31,7 @@
     "Snap Store",
     "Snap Store Template"
   ],
-  "homepage": "https://github.com/tannerdolby/eleventy-photo-gallery#readme",
+  "homepage": "#readme",
   "license": "MIT",
   "dependencies": {
     "@11ty/eleventy": "^1.0.1",
