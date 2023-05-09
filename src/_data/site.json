@@ -1,29 +1,26 @@
 {   
     "author": {
-        "firstName": "John",
-        "lastName": "Smith",
-        "email": "foobar@gmail.com",
-        "twitterHandle": "tannerdolby",
+        "firstName": "Vineeth",
+        "lastName": "Duddela",
+        "email": "vinith.duddela@gmail.com",
+        "twitterHandle": "VineethDuddela",
         "about": "Freelance photographer interested in film and cinematography"
     },
     "socials": {
-        "twitter": "https://twitter.com/tannerdolby",
-        "linkedin": "https://linkedin.com/in/tanner-dolby",
-        "dribbble": "https://dribbble.com/tannerdolby",
-        "github": "https://github.com/tannerdolby"
+        "twitter": "https://twitter.com/VineethDuddela"
     },
     "pageMetadata": {
         "home": {
             "content": "A photo gallery template with stock photos provided from Pexels. Add or remove images from the grid and customize your own image gallery!"
         },
         "gallery": {
-            "content": "A collection of images from John Smith's gallery."
+            "content": "A collection of images from Vineeth Duddela's gallery."
         },
         "featured": {
-            "content": "from John Smith's gallery."
+            "content": "from Vineeth Duddela's gallery."
         },
         "about": {
-            "content": "A page about John Smith, and photography. This template is currently the default version so add your own about me page info here."
+            "content": "A page about Vineeth Duddela, and photography. This template is currently the default version so add your own about me page info here."
         }
 
     }

@@ -1,7 +1,7 @@
 {
   "name": "eleventy-photo-gallery",
   "version": "1.2.0",
-  "description": "A photo gallery starter kit built with the static site generator Eleventy",
+  "description": "A Snap Store starter kit built with the static site generator Eleventy",
   "main": ".eleventy.js",
   "scripts": {
     "build": "npm-run-all build:*",
@@ -28,8 +28,8 @@
   "keywords": [
     "Eleventy",
     "11ty",
-    "Photo Gallery",
-    "Photo Gallery Template"
+    "Snap Store",
+    "Snap Store Template"
   ],
   "homepage": "https://github.com/tannerdolby/eleventy-photo-gallery#readme",
   "license": "MIT",
